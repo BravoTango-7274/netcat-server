@@ -3,7 +3,7 @@ A simple bash script that starts a server on a given port. Just navigate to the 
 ```bash
 sudo ./teehee.sh [port of choice]
 ```
- ##To connect, use:
+ ## To connect, use:
  ```bash
  nc [localhost IP] [port]
  ```
